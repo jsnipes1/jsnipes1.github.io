@@ -1,0 +1,123 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Overflow</title>
+<meta charset="utf-8">
+<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,300italic" rel="stylesheet" type="text/css">
+<!--[if lte IE 8]>
+<script src="css/ie/html5shiv.js"></script>
+<![endif]-->
+<script src="js/jquery.min.js"></script>
+<script src="js/jquery.poptrox-2.2.js"></script>
+<script src="js/skel.min.js"></script>
+<script src="js/init.js"></script>
+<noscript>
+<link rel="stylesheet" href="css/skel-noscript.css">
+<link rel="stylesheet" href="css/style.css">
+</noscript>
+<!--[if lte IE 8]>
+<link rel="stylesheet" href="css/ie/v8.css">
+<![endif]-->
+</head>
+<body>
+<section id="header">
+  <header>
+    <h1>Overflow</h1>
+    <p>By HTML5 UP</p>
+  </header>
+  <footer> <a href="#banner" class="button style2 scrolly">Proceed as anticipated</a> </footer>
+</section>
+<section id="banner">
+  <header>
+    <h2>This is Overflow</h2>
+  </header>
+  <p>A brand new site template designed by AJ for HTML5 UP.<br>
+    It’s fully responsive, built on skelJS, and of course entirely free<br>
+    under the Creative Commons license.</p>
+  <footer> <a href="#first" class="button style2 scrolly">Act on this message</a> </footer>
+</section>
+<article id="first" class="container box style1 right"> <a href="#" class="image full"><img src="images/pic01.jpg" alt=""></a>
+  <div class="inner">
+    <header>
+      <h2>Lorem ipsum<br>
+        dolor sit amet</h2>
+    </header>
+    <p>Tortor faucibus ullamcorper nec tempus purus sed penatibus. Lacinia pellentesque eleifend vitae est elit tristique velit tempus etiam.</p>
+  </div>
+</article>
+<article class="container box style1 left"> <a href="#" class="image full"><img src="images/pic02.jpg" alt=""></a>
+  <div class="inner">
+    <header>
+      <h2>Mollis posuere<br>
+        lectus lacus</h2>
+    </header>
+    <p>Rhoncus mattis egestas sed fusce sodales rutrum et etiam ullamcorper. Etiam egestas scelerisque ac duis magna lorem ipsum dolor.</p>
+  </div>
+</article>
+<article class="container box style2">
+  <header>
+    <h2>Magnis parturient</h2>
+    <p>Justo phasellus et aenean dignissim<br>
+      placerat cubilia purus lectus.</p>
+  </header>
+  <div class="inner gallery">
+    <div class="row flush">
+      <div class="3u"><a href="images/fulls/01.jpg" class="image full"><img src="images/thumbs/01.jpg" alt="" title="Ad infinitum"></a></div>
+      <div class="3u"><a href="images/fulls/02.jpg" class="image full"><img src="images/thumbs/02.jpg" alt="" title="Dressed in Clarity"></a></div>
+      <div class="3u"><a href="images/fulls/03.jpg" class="image full"><img src="images/thumbs/03.jpg" alt="" title="Raven"></a></div>
+      <div class="3u"><a href="images/fulls/04.jpg" class="image full"><img src="images/thumbs/04.jpg" alt="" title="I'll have a cup of Disneyland, please"></a></div>
+    </div>
+    <div class="row flush">
+      <div class="3u"><a href="images/fulls/05.jpg" class="image full"><img src="images/thumbs/05.jpg" alt="" title="Cherish"></a></div>
+      <div class="3u"><a href="images/fulls/06.jpg" class="image full"><img src="images/thumbs/06.jpg" alt="" title="Different."></a></div>
+      <div class="3u"><a href="images/fulls/07.jpg" class="image full"><img src="images/thumbs/07.jpg" alt="" title="History was made here"></a></div>
+      <div class="3u"><a href="images/fulls/08.jpg" class="image full"><img src="images/thumbs/08.jpg" alt="" title="People come and go and walk away"></a></div>
+    </div>
+  </div>
+</article>
+<article class="container box style3">
+  <header>
+    <h2>Nisl sed ultricies</h2>
+    <p>Diam dignissim lectus eu ornare volutpat orci.</p>
+  </header>
+  <form action="#">
+    <div class="row half">
+      <div class="6u">
+        <input type="text" class="text" name="name" placeholder="Name">
+      </div>
+      <div class="6u">
+        <input type="text" class="text" name="email" placeholder="Email">
+      </div>
+    </div>
+    <div class="row half">
+      <div class="12u">
+        <textarea name="message" placeholder="Message"></textarea>
+      </div>
+    </div>
+    <div class="row">
+      <div class="12u">
+        <ul class="actions">
+          <li><a href="#" class="button form">Send Message</a></li>
+        </ul>
+      </div>
+    </div>
+  </form>
+</article>
+<section id="footer">
+  <ul class="icons">
+    <li><a href="#" class="icon icon-twitter solo"><span>Twitter</span></a></li>
+    <li><a href="#" class="icon icon-facebook solo"><span>Facebook</span></a></li>
+    <li><a href="#" class="icon icon-google-plus solo"><span>Google+</span></a></li>
+    <li><a href="#" class="icon icon-pinterest solo"><span>Pinterest</span></a></li>
+    <li><a href="#" class="icon icon-dribbble solo"><span>Dribbble</span></a></li>
+    <li><a href="#" class="icon icon-linkedin solo"><span>LinkedIn</span></a></li>
+  </ul>
+  <div class="copyright">
+    <ul class="menu">
+      <li>&copy; Untitled. All rights reserved.</li>
+      <li>Design: <a href="http://html5up.net/">HTML5 UP</a></li>
+    </ul>
+  </div>
+</section>
+</body>
+</html>
